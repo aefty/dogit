@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo "dogit-local ..."
+echo "dogitLoc ..."
 
 init_repo () {
 
