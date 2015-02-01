@@ -5,7 +5,7 @@ echo "dogitLoc ..."
 init_repo () {
 
   if [ -z "$1" ]; then
-    GITDIR="/Users/aryan-poinat/Google-Drive/_git"
+    GITDIR="/Users/user/Google-Drive/_git"
   else
     GITDIR=$1
   fi
